@@ -20,8 +20,7 @@
 
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Analysis`
 - :boom: You can visit [MY WEBSITE] website under development
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/badge/any_Fabian_salamandra)](fabiansalamandra@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :nerd_face: Always believe `"THUG LIFE| ASAP"`
 
 <br>
 
