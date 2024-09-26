@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://www.wargamer.com/wp-content/sites/wargamer/2023/05/warhammer-40k-vulkan-and-salamanders-550x309.jpg" width = 300px></picture>
 
 
 
